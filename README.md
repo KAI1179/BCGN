@@ -32,7 +32,7 @@ Please download the VMRD dataset from the [URL](https://www.dropbox.com/s/ff0f4b
   ```
 ## Test
   ```bash
-  # The pre-trained modal are provided in  [Google drive](https://drive.google.com/file/d/15ETcqYkG3x1zX-2fRzJcP2ChA-mGesw3/view?usp=drive_link)
+  # The pre-trained modal are provided in Google drive(https://drive.google.com/file/d/15ETcqYkG3x1zX-2fRzJcP2ChA-mGesw3/view?usp=drive_link)
   python test.py
   ```
 
